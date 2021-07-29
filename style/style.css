@@ -3,7 +3,7 @@
     Header Style
 --------------------*/
 
-header{
+header, .header{
     background-color: #264653;
 }
 
